@@ -3,7 +3,7 @@ udbhava hackathon web-app
 
 HOW TO:
 0) Extract files from udbhava.zip
-1) to run the project please start php into folder udbhava
+1) To run the project please start php into folder udbhava
    php -S localhost:8888 -t udbhava/
 
    or place the entire file and folder into localhost dirctory.
