@@ -1,4 +1,4 @@
-# udbhava
+# udbhavaISTE
 udbhava hackathon web-app
 
 HOW TO:
